@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GTA San Andreas Database</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎮</text></svg>">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="filter-grid">
+            <div class="filter-group">
+                <label for="datatype-select">Data Type:</label>
+                <select id="datatype-select">
+                    <option value="vehicles">Vehicles</option>
+                    <option value="peds">Pedestrians (Peds)</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="global-search">Global Search:</label>
+                <input type="search" id="global-search" placeholder="Search any field...">
+            </div>
+
+            <!-- Vehicle Specific Filters -->
+            <div id="vehicle-filters" class="dynamic-filters">
+                <div class="filter-group">
+                    <label for="category-filter">Category:</label>
+                    <select id="category-filter">
+                        <option value="">All Categories</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="model-id-filter">Model ID:</label>
+                    <select id="model-id-filter">
+                        <option value="">All Model IDs</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="vehicle-name-filter">Vehicle Name:</label>
+                    <select id="vehicle-name-filter">
+                        <option value="">All Vehicle Names</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="model-name-filter">Model Name:</label>
+                    <select id="model-name-filter">
+                        <option value="">All Model Names</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Pedestrian Specific Filters -->
+            <div id="ped-filters" class="dynamic-filters" style="display: none;">
+                <div class="filter-group">
+                    <label for="gender-filter">Gender:</label>
+                    <select id="gender-filter">
+                        <option value="">All Genders</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="location-filter">Location:</label>
+                    <select id="location-filter">
+                        <option value="">All Locations</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="skin-id-filter">Skin ID:</label>
+                    <select id="skin-id-filter">
+                        <option value="">All Skin IDs</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="skin-name-filter">Skin Name Type:</label>
+                    <select id="skin-name-filter">
+                        <option value="">All Skin Names</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="visibility-controls">
+            <span>Toggle Columns:</span>
+            <div id="column-toggles" class="checkbox-grid">
+                <!-- Checkboxes dynamically generated here -->
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <table>
+            <thead>
+                <tr id="table-head-row"></tr>
+            </thead>
+            <tbody id="table-body"></tbody>
+        </table>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

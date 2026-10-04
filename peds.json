@@ -1,0 +1,2490 @@
+[
+  {
+    "skin_id": 0,
+    "preview": "https://assets.open.mp/assets/images/skins/0.png",
+    "skin_model_name": "cj",
+    "skin_name_type": "Carl \"CJ\" Johnson (Main Character)",
+    "singleplayer_location": "Anywhere",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 1,
+    "preview": "https://assets.open.mp/assets/images/skins/1.png",
+    "skin_model_name": "truth",
+    "skin_name_type": "The Truth",
+    "singleplayer_location": "San Fierro and Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 2,
+    "preview": "https://assets.open.mp/assets/images/skins/2.png",
+    "skin_model_name": "maccer",
+    "skin_name_type": "Maccer",
+    "singleplayer_location": "Las Venturas and Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 3,
+    "preview": "https://assets.open.mp/assets/images/skins/3.png",
+    "skin_model_name": "andre",
+    "skin_name_type": "Andre",
+    "singleplayer_location": "Unknown",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 4,
+    "preview": "https://assets.open.mp/assets/images/skins/4.png",
+    "skin_model_name": "bbthin",
+    "skin_name_type": "Barry \"Big Bear\" Thorne [Thin]",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 5,
+    "preview": "https://assets.open.mp/assets/images/skins/5.png",
+    "skin_model_name": "bb",
+    "skin_name_type": "Barry \"Big Bear\" Thorne [Big]",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 6,
+    "preview": "https://assets.open.mp/assets/images/skins/6.png",
+    "skin_model_name": "emmet",
+    "skin_name_type": "Emmet",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 7,
+    "preview": "https://assets.open.mp/assets/images/skins/7.png",
+    "skin_model_name": "male01",
+    "skin_name_type": "Taxi Driver/Train Driver",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 8,
+    "preview": "https://assets.open.mp/assets/images/skins/8.png",
+    "skin_model_name": "janitor",
+    "skin_name_type": "Janitor",
+    "singleplayer_location": "4 Dragons Casino",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 9,
+    "preview": "https://assets.open.mp/assets/images/skins/9.png",
+    "skin_model_name": "bfori",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 10,
+    "preview": "https://assets.open.mp/assets/images/skins/10.png",
+    "skin_model_name": "bfost",
+    "skin_name_type": "Old Woman",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 11,
+    "preview": "https://assets.open.mp/assets/images/skins/11.png",
+    "skin_model_name": "vbfycrp",
+    "skin_name_type": "Casino croupier",
+    "singleplayer_location": "Las Venturas Casinos",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 12,
+    "preview": "https://assets.open.mp/assets/images/skins/12.png",
+    "skin_model_name": "bfyri",
+    "skin_name_type": "Rich Woman",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 13,
+    "preview": "https://assets.open.mp/assets/images/skins/13.png",
+    "skin_model_name": "bfyst",
+    "skin_name_type": "Street Girl",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 14,
+    "preview": "https://assets.open.mp/assets/images/skins/14.png",
+    "skin_model_name": "bmori",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 15,
+    "preview": "https://assets.open.mp/assets/images/skins/15.png",
+    "skin_model_name": "bmost",
+    "skin_name_type": "Mr.Whittaker (RS Haul Owner)",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 16,
+    "preview": "https://assets.open.mp/assets/images/skins/16.png",
+    "skin_model_name": "bmyap",
+    "skin_name_type": "Airport Ground Worker",
+    "singleplayer_location": "Airports",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 17,
+    "preview": "https://assets.open.mp/assets/images/skins/17.png",
+    "skin_model_name": "bmybu",
+    "skin_name_type": "Businessman",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 18,
+    "preview": "https://assets.open.mp/assets/images/skins/18.png",
+    "skin_model_name": "bmybe",
+    "skin_name_type": "Beach Visitor",
+    "singleplayer_location": "Beaches of SA",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 19,
+    "preview": "https://assets.open.mp/assets/images/skins/19.png",
+    "skin_model_name": "bmydj",
+    "skin_name_type": "DJ",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 20,
+    "preview": "https://assets.open.mp/assets/images/skins/20.png",
+    "skin_model_name": "bmyri",
+    "skin_name_type": "Rich Guy (Madd Dogg's Manager)",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 21,
+    "preview": "https://assets.open.mp/assets/images/skins/21.png",
+    "skin_model_name": "bmycr",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 22,
+    "preview": "https://assets.open.mp/assets/images/skins/22.png",
+    "skin_model_name": "bmyst",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 23,
+    "preview": "https://assets.open.mp/assets/images/skins/23.png",
+    "skin_model_name": "wmybmx",
+    "skin_name_type": "BMXer",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 24,
+    "preview": "https://assets.open.mp/assets/images/skins/24.png",
+    "skin_model_name": "wbdyg1",
+    "skin_name_type": "Madd Dogg Bodyguard",
+    "singleplayer_location": "Madd Dogg's Mansion",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 25,
+    "preview": "https://assets.open.mp/assets/images/skins/25.png",
+    "skin_model_name": "wbdyg2",
+    "skin_name_type": "Madd Dogg Bodyguard",
+    "singleplayer_location": "Madd Dogg's Mansion",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 26,
+    "preview": "https://assets.open.mp/assets/images/skins/26.png",
+    "skin_model_name": "wmybp",
+    "skin_name_type": "Backpacker",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 27,
+    "preview": "https://assets.open.mp/assets/images/skins/27.png",
+    "skin_model_name": "wmycon",
+    "skin_name_type": "Construction Worker",
+    "singleplayer_location": "Doherty",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 28,
+    "preview": "https://assets.open.mp/assets/images/skins/28.png",
+    "skin_model_name": "bmydrug",
+    "skin_name_type": "Drug Dealer",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 29,
+    "preview": "https://assets.open.mp/assets/images/skins/29.png",
+    "skin_model_name": "wmydrug",
+    "skin_name_type": "Drug Dealer",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 30,
+    "preview": "https://assets.open.mp/assets/images/skins/30.png",
+    "skin_model_name": "hmydrug",
+    "skin_name_type": "Drug Dealer",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 31,
+    "preview": "https://assets.open.mp/assets/images/skins/31.png",
+    "skin_model_name": "dwfolc",
+    "skin_name_type": "Farm-Town inhabitant",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 32,
+    "preview": "https://assets.open.mp/assets/images/skins/32.png",
+    "skin_model_name": "dwmolc1",
+    "skin_name_type": "Farm-Town inhabitant",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 33,
+    "preview": "https://assets.open.mp/assets/images/skins/33.png",
+    "skin_model_name": "dwmolc2",
+    "skin_name_type": "Farm-Town inhabitant",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 34,
+    "preview": "https://assets.open.mp/assets/images/skins/34.png",
+    "skin_model_name": "dwmylc1",
+    "skin_name_type": "Farm-Town inhabitant",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 35,
+    "preview": "https://assets.open.mp/assets/images/skins/35.png",
+    "skin_model_name": "hmogar",
+    "skin_name_type": "Gardener",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 36,
+    "preview": "https://assets.open.mp/assets/images/skins/36.png",
+    "skin_model_name": "wmygol1",
+    "skin_name_type": "Golfer",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 37,
+    "preview": "https://assets.open.mp/assets/images/skins/37.png",
+    "skin_model_name": "wmygol2",
+    "skin_name_type": "Golfer",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 38,
+    "preview": "https://assets.open.mp/assets/images/skins/38.png",
+    "skin_model_name": "hfori",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 39,
+    "preview": "https://assets.open.mp/assets/images/skins/39.png",
+    "skin_model_name": "hfost",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 40,
+    "preview": "https://assets.open.mp/assets/images/skins/40.png",
+    "skin_model_name": "hfyri",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 41,
+    "preview": "https://assets.open.mp/assets/images/skins/41.png",
+    "skin_model_name": "hfyst",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 42,
+    "preview": "https://assets.open.mp/assets/images/skins/42.png",
+    "skin_model_name": "jethro",
+    "skin_name_type": "Jethro",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 43,
+    "preview": "https://assets.open.mp/assets/images/skins/43.png",
+    "skin_model_name": "hmori",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 44,
+    "preview": "https://assets.open.mp/assets/images/skins/44.png",
+    "skin_model_name": "hmost",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 45,
+    "preview": "https://assets.open.mp/assets/images/skins/45.png",
+    "skin_model_name": "hmybe",
+    "skin_name_type": "Beach Visitor",
+    "singleplayer_location": "Beaches of SA",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 46,
+    "preview": "https://assets.open.mp/assets/images/skins/46.png",
+    "skin_model_name": "hmyri",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 47,
+    "preview": "https://assets.open.mp/assets/images/skins/47.png",
+    "skin_model_name": "hmycr",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 48,
+    "preview": "https://assets.open.mp/assets/images/skins/48.png",
+    "skin_model_name": "hmyst",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 49,
+    "preview": "https://assets.open.mp/assets/images/skins/49.png",
+    "skin_model_name": "omokung",
+    "skin_name_type": "Snakehead (Da Nang)",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 50,
+    "preview": "https://assets.open.mp/assets/images/skins/50.png",
+    "skin_model_name": "wmymech",
+    "skin_name_type": "Mechanic",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 51,
+    "preview": "https://assets.open.mp/assets/images/skins/51.png",
+    "skin_model_name": "bmymoun",
+    "skin_name_type": "Mountain Biker",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 52,
+    "preview": "https://assets.open.mp/assets/images/skins/52.png",
+    "skin_model_name": "wmymoun",
+    "skin_name_type": "Mountain Biker",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 53,
+    "preview": "https://assets.open.mp/assets/images/skins/53.png",
+    "skin_model_name": "ofori",
+    "skin_name_type": "Unknown",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 54,
+    "preview": "https://assets.open.mp/assets/images/skins/54.png",
+    "skin_model_name": "ofost",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 55,
+    "preview": "https://assets.open.mp/assets/images/skins/55.png",
+    "skin_model_name": "ofyri",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 56,
+    "preview": "https://assets.open.mp/assets/images/skins/56.png",
+    "skin_model_name": "ofyst",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 57,
+    "preview": "https://assets.open.mp/assets/images/skins/57.png",
+    "skin_model_name": "omori",
+    "skin_name_type": "Oriental Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 58,
+    "preview": "https://assets.open.mp/assets/images/skins/58.png",
+    "skin_model_name": "omost",
+    "skin_name_type": "Oriental Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 59,
+    "preview": "https://assets.open.mp/assets/images/skins/59.png",
+    "skin_model_name": "omyri",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 60,
+    "preview": "https://assets.open.mp/assets/images/skins/60.png",
+    "skin_model_name": "omyst",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 61,
+    "preview": "https://assets.open.mp/assets/images/skins/61.png",
+    "skin_model_name": "wmyplt",
+    "skin_name_type": "Pilot",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 62,
+    "preview": "https://assets.open.mp/assets/images/skins/62.png",
+    "skin_model_name": "wmopj",
+    "skin_name_type": "Colonel Fuhrberger",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 63,
+    "preview": "https://assets.open.mp/assets/images/skins/63.png",
+    "skin_model_name": "bfypro",
+    "skin_name_type": "Prostitute",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 64,
+    "preview": "https://assets.open.mp/assets/images/skins/64.png",
+    "skin_model_name": "hfypro",
+    "skin_name_type": "Prostitute",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 65,
+    "preview": "https://assets.open.mp/assets/images/skins/65.png",
+    "skin_model_name": "kendl",
+    "skin_name_type": "Kendl Johnson",
+    "singleplayer_location": "Los Santos and San Fierro",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 66,
+    "preview": "https://assets.open.mp/assets/images/skins/66.png",
+    "skin_model_name": "bmypol1",
+    "skin_name_type": "Pool Player",
+    "singleplayer_location": "Bars",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 67,
+    "preview": "https://assets.open.mp/assets/images/skins/67.png",
+    "skin_model_name": "bmypol2",
+    "skin_name_type": "Pool Player",
+    "singleplayer_location": "Bars Works at Dillimore Gas Station",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 68,
+    "preview": "https://assets.open.mp/assets/images/skins/68.png",
+    "skin_model_name": "wmoprea",
+    "skin_name_type": "Priest/Preacher",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 69,
+    "preview": "https://assets.open.mp/assets/images/skins/69.png",
+    "skin_model_name": "sbfyst",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 70,
+    "preview": "https://assets.open.mp/assets/images/skins/70.png",
+    "skin_model_name": "wmosci",
+    "skin_name_type": "Scientist",
+    "singleplayer_location": "Area 69",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 71,
+    "preview": "https://assets.open.mp/assets/images/skins/71.png",
+    "skin_model_name": "wmysgrd",
+    "skin_name_type": "Security Guard",
+    "singleplayer_location": "Airport Guard Boxes",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 72,
+    "preview": "https://assets.open.mp/assets/images/skins/72.png",
+    "skin_model_name": "swmyhp1",
+    "skin_name_type": "Hippy",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 73,
+    "preview": "https://assets.open.mp/assets/images/skins/73.png",
+    "skin_model_name": "swmyhp2",
+    "skin_name_type": "Hippy",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 75,
+    "preview": "https://assets.open.mp/assets/images/skins/75.png",
+    "skin_model_name": "swfopro",
+    "skin_name_type": "Prostitute",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 76,
+    "preview": "https://assets.open.mp/assets/images/skins/76.png",
+    "skin_model_name": "wfystew",
+    "skin_name_type": "Stewardess",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 77,
+    "preview": "https://assets.open.mp/assets/images/skins/77.png",
+    "skin_model_name": "swmotr1",
+    "skin_name_type": "Homeless",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 78,
+    "preview": "https://assets.open.mp/assets/images/skins/78.png",
+    "skin_model_name": "wmotr1",
+    "skin_name_type": "Homeless",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 79,
+    "preview": "https://assets.open.mp/assets/images/skins/79.png",
+    "skin_model_name": "bmotr1",
+    "skin_name_type": "Homeless",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 80,
+    "preview": "https://assets.open.mp/assets/images/skins/80.png",
+    "skin_model_name": "vbmybox",
+    "skin_name_type": "Boxer",
+    "singleplayer_location": "San Andreas Gyms",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 81,
+    "preview": "https://assets.open.mp/assets/images/skins/81.png",
+    "skin_model_name": "vwmybox",
+    "skin_name_type": "Boxer",
+    "singleplayer_location": "San Andreas Gyms",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 82,
+    "preview": "https://assets.open.mp/assets/images/skins/82.png",
+    "skin_model_name": "vhmyelv",
+    "skin_name_type": "Black Elvis",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 83,
+    "preview": "https://assets.open.mp/assets/images/skins/83.png",
+    "skin_model_name": "vbmyelv",
+    "skin_name_type": "White Elvis",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 84,
+    "preview": "https://assets.open.mp/assets/images/skins/84.png",
+    "skin_model_name": "vimyelv",
+    "skin_name_type": "Blue Elvis",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 85,
+    "preview": "https://assets.open.mp/assets/images/skins/85.png",
+    "skin_model_name": "vwfypro",
+    "skin_name_type": "Prostitute",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 86,
+    "preview": "https://assets.open.mp/assets/images/skins/86.png",
+    "skin_model_name": "ryder3",
+    "skin_name_type": "Ryder with robbery mask",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 87,
+    "preview": "https://assets.open.mp/assets/images/skins/87.png",
+    "skin_model_name": "vwfyst1",
+    "skin_name_type": "Stripper",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 88,
+    "preview": "https://assets.open.mp/assets/images/skins/88.png",
+    "skin_model_name": "wfori",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 89,
+    "preview": "https://assets.open.mp/assets/images/skins/89.png",
+    "skin_model_name": "wfost",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 90,
+    "preview": "https://assets.open.mp/assets/images/skins/90.png",
+    "skin_model_name": "wfyjg",
+    "skin_name_type": "Jogger",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 91,
+    "preview": "https://assets.open.mp/assets/images/skins/91.png",
+    "skin_model_name": "wfyri",
+    "skin_name_type": "Rich Woman",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 92,
+    "preview": "https://assets.open.mp/assets/images/skins/92.png",
+    "skin_model_name": "wfyro",
+    "skin_name_type": "Rollerskater",
+    "singleplayer_location": "Beaches of SA",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 93,
+    "preview": "https://assets.open.mp/assets/images/skins/93.png",
+    "skin_model_name": "wfyst",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 94,
+    "preview": "https://assets.open.mp/assets/images/skins/94.png",
+    "skin_model_name": "wmori",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 95,
+    "preview": "https://assets.open.mp/assets/images/skins/95.png",
+    "skin_model_name": "wmost",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "Works at or owns Dillimore Gas Station San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 96,
+    "preview": "https://assets.open.mp/assets/images/skins/96.png",
+    "skin_model_name": "wmyjg",
+    "skin_name_type": "Jogger",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 97,
+    "preview": "https://assets.open.mp/assets/images/skins/97.png",
+    "skin_model_name": "wmylg",
+    "skin_name_type": "Lifeguard",
+    "singleplayer_location": "Beaches",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 98,
+    "preview": "https://assets.open.mp/assets/images/skins/98.png",
+    "skin_model_name": "wmyri",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 99,
+    "preview": "https://assets.open.mp/assets/images/skins/99.png",
+    "skin_model_name": "wmyro",
+    "skin_name_type": "Rollerskater",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 100,
+    "preview": "https://assets.open.mp/assets/images/skins/100.png",
+    "skin_model_name": "wmycr",
+    "skin_name_type": "Biker",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 101,
+    "preview": "https://assets.open.mp/assets/images/skins/101.png",
+    "skin_model_name": "wmyst",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 102,
+    "preview": "https://assets.open.mp/assets/images/skins/102.png",
+    "skin_model_name": "ballas1",
+    "skin_name_type": "Balla",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 103,
+    "preview": "https://assets.open.mp/assets/images/skins/103.png",
+    "skin_model_name": "ballas2",
+    "skin_name_type": "Balla",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 104,
+    "preview": "https://assets.open.mp/assets/images/skins/104.png",
+    "skin_model_name": "ballas3",
+    "skin_name_type": "Balla",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 105,
+    "preview": "https://assets.open.mp/assets/images/skins/105.png",
+    "skin_model_name": "fam1",
+    "skin_name_type": "Grove Street Families",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 106,
+    "preview": "https://assets.open.mp/assets/images/skins/106.png",
+    "skin_model_name": "fam2",
+    "skin_name_type": "Grove Street Families",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 107,
+    "preview": "https://assets.open.mp/assets/images/skins/107.png",
+    "skin_model_name": "fam3",
+    "skin_name_type": "Grove Street Families",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 108,
+    "preview": "https://assets.open.mp/assets/images/skins/108.png",
+    "skin_model_name": "lsv1",
+    "skin_name_type": "Los Santos Vagos",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 109,
+    "preview": "https://assets.open.mp/assets/images/skins/109.png",
+    "skin_model_name": "lsv2",
+    "skin_name_type": "Los Santos Vagos",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 110,
+    "preview": "https://assets.open.mp/assets/images/skins/110.png",
+    "skin_model_name": "lsv3",
+    "skin_name_type": "Los Santos Vagos",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 111,
+    "preview": "https://assets.open.mp/assets/images/skins/111.png",
+    "skin_model_name": "maffa",
+    "skin_name_type": "The Russian Mafia",
+    "singleplayer_location": "Around SA",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 112,
+    "preview": "https://assets.open.mp/assets/images/skins/112.png",
+    "skin_model_name": "maffb",
+    "skin_name_type": "The Russian Mafia",
+    "singleplayer_location": "Around SA",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 113,
+    "preview": "https://assets.open.mp/assets/images/skins/113.png",
+    "skin_model_name": "mafboss",
+    "skin_name_type": "The Russian Mafia",
+    "singleplayer_location": "Around SA",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 114,
+    "preview": "https://assets.open.mp/assets/images/skins/114.png",
+    "skin_model_name": "vla1",
+    "skin_name_type": "Varios Los Aztecas",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 115,
+    "preview": "https://assets.open.mp/assets/images/skins/115.png",
+    "skin_model_name": "vla2",
+    "skin_name_type": "Varios Los Aztecas",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 116,
+    "preview": "https://assets.open.mp/assets/images/skins/116.png",
+    "skin_model_name": "vla3",
+    "skin_name_type": "Varios Los Aztecas",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 117,
+    "preview": "https://assets.open.mp/assets/images/skins/117.png",
+    "skin_model_name": "triada",
+    "skin_name_type": "Triad",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 118,
+    "preview": "https://assets.open.mp/assets/images/skins/118.png",
+    "skin_model_name": "triadb",
+    "skin_name_type": "Triad",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 119,
+    "preview": "https://assets.open.mp/assets/images/skins/119.png",
+    "skin_model_name": "sindaco",
+    "skin_name_type": "Johhny Sindacco",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 120,
+    "preview": "https://assets.open.mp/assets/images/skins/120.png",
+    "skin_model_name": "triboss",
+    "skin_name_type": "Triad Boss",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 121,
+    "preview": "https://assets.open.mp/assets/images/skins/121.png",
+    "skin_model_name": "dnb1",
+    "skin_name_type": "Da Nang Boy",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 122,
+    "preview": "https://assets.open.mp/assets/images/skins/122.png",
+    "skin_model_name": "dnb2",
+    "skin_name_type": "Da Nang Boy",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 123,
+    "preview": "https://assets.open.mp/assets/images/skins/123.png",
+    "skin_model_name": "dnb3",
+    "skin_name_type": "Da Nang Boy",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 124,
+    "preview": "https://assets.open.mp/assets/images/skins/124.png",
+    "skin_model_name": "vmaff1",
+    "skin_name_type": "The Mafia",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 125,
+    "preview": "https://assets.open.mp/assets/images/skins/125.png",
+    "skin_model_name": "vmaff2",
+    "skin_name_type": "The Mafia",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 126,
+    "preview": "https://assets.open.mp/assets/images/skins/126.png",
+    "skin_model_name": "vmaff3",
+    "skin_name_type": "The Mafia",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 127,
+    "preview": "https://assets.open.mp/assets/images/skins/127.png",
+    "skin_model_name": "vmaff4",
+    "skin_name_type": "The Mafia",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 128,
+    "preview": "https://assets.open.mp/assets/images/skins/128.png",
+    "skin_model_name": "dnmylc",
+    "skin_name_type": "Farm Inhabitant",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 129,
+    "preview": "https://assets.open.mp/assets/images/skins/129.png",
+    "skin_model_name": "dnfolc1",
+    "skin_name_type": "Farm Inhabitant",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 130,
+    "preview": "https://assets.open.mp/assets/images/skins/130.png",
+    "skin_model_name": "dnfolc2",
+    "skin_name_type": "Farm Inhabitant",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 131,
+    "preview": "https://assets.open.mp/assets/images/skins/131.png",
+    "skin_model_name": "dnfylc",
+    "skin_name_type": "Farm Inhabitant",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 132,
+    "preview": "https://assets.open.mp/assets/images/skins/132.png",
+    "skin_model_name": "dnmolc1",
+    "skin_name_type": "Farm Inhabitant",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 133,
+    "preview": "https://assets.open.mp/assets/images/skins/133.png",
+    "skin_model_name": "dnmolc2",
+    "skin_name_type": "Farm Inhabitant",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 134,
+    "preview": "https://assets.open.mp/assets/images/skins/134.png",
+    "skin_model_name": "sbmotr2",
+    "skin_name_type": "Homeless",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 135,
+    "preview": "https://assets.open.mp/assets/images/skins/135.png",
+    "skin_model_name": "swmotr2",
+    "skin_name_type": "Homeless",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 136,
+    "preview": "https://assets.open.mp/assets/images/skins/136.png",
+    "skin_model_name": "sbmytr3",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 137,
+    "preview": "https://assets.open.mp/assets/images/skins/137.png",
+    "skin_model_name": "swmotr3",
+    "skin_name_type": "Homeless",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 138,
+    "preview": "https://assets.open.mp/assets/images/skins/138.png",
+    "skin_model_name": "wfybe",
+    "skin_name_type": "Beach Visitor",
+    "singleplayer_location": "Beaches of SA",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 139,
+    "preview": "https://assets.open.mp/assets/images/skins/139.png",
+    "skin_model_name": "bfybe",
+    "skin_name_type": "Beach Visitor",
+    "singleplayer_location": "Beaches of SA",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 140,
+    "preview": "https://assets.open.mp/assets/images/skins/140.png",
+    "skin_model_name": "hfybe",
+    "skin_name_type": "Beach Visitor",
+    "singleplayer_location": "Beaches of SA",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 141,
+    "preview": "https://assets.open.mp/assets/images/skins/141.png",
+    "skin_model_name": "sofybu",
+    "skin_name_type": "Businesswoman",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 142,
+    "preview": "https://assets.open.mp/assets/images/skins/142.png",
+    "skin_model_name": "sbmyst",
+    "skin_name_type": "Taxi Driver",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 143,
+    "preview": "https://assets.open.mp/assets/images/skins/143.png",
+    "skin_model_name": "sbmycr",
+    "skin_name_type": "Crack Maker",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 144,
+    "preview": "https://assets.open.mp/assets/images/skins/144.png",
+    "skin_model_name": "bmycg",
+    "skin_name_type": "Crack Maker",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 145,
+    "preview": "https://assets.open.mp/assets/images/skins/145.png",
+    "skin_model_name": "wfycrk",
+    "skin_name_type": "Crack Maker",
+    "singleplayer_location": "Beaches of SA",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 146,
+    "preview": "https://assets.open.mp/assets/images/skins/146.png",
+    "skin_model_name": "hmycm",
+    "skin_name_type": "Crack Maker",
+    "singleplayer_location": "Beaches of SA",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 147,
+    "preview": "https://assets.open.mp/assets/images/skins/147.png",
+    "skin_model_name": "wmybu",
+    "skin_name_type": "Businessman",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 148,
+    "preview": "https://assets.open.mp/assets/images/skins/148.png",
+    "skin_model_name": "bfybu",
+    "skin_name_type": "Businesswoman",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 149,
+    "preview": "https://assets.open.mp/assets/images/skins/149.png",
+    "skin_model_name": "smokev",
+    "skin_name_type": "Big Smoke Armored",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 150,
+    "preview": "https://assets.open.mp/assets/images/skins/150.png",
+    "skin_model_name": "wfybu",
+    "skin_name_type": "Businesswoman",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 151,
+    "preview": "https://assets.open.mp/assets/images/skins/151.png",
+    "skin_model_name": "dwfylc1",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 152,
+    "preview": "https://assets.open.mp/assets/images/skins/152.png",
+    "skin_model_name": "wfypro",
+    "skin_name_type": "Prostitute",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 153,
+    "preview": "https://assets.open.mp/assets/images/skins/153.png",
+    "skin_model_name": "wmyconb",
+    "skin_name_type": "Construction Worker",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 154,
+    "preview": "https://assets.open.mp/assets/images/skins/154.png",
+    "skin_model_name": "wmybe",
+    "skin_name_type": "Beach Visitor",
+    "singleplayer_location": "Beaches of SA",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 155,
+    "preview": "https://assets.open.mp/assets/images/skins/155.png",
+    "skin_model_name": "wmypizz",
+    "skin_name_type": "Well Stacked Pizza Worker",
+    "singleplayer_location": "Well Stacked Pizza co.",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 156,
+    "preview": "https://assets.open.mp/assets/images/skins/156.png",
+    "skin_model_name": "bmobar",
+    "skin_name_type": "Barber",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 157,
+    "preview": "https://assets.open.mp/assets/images/skins/157.png",
+    "skin_model_name": "cwfyhb",
+    "skin_name_type": "Hillbilly",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 158,
+    "preview": "https://assets.open.mp/assets/images/skins/158.png",
+    "skin_model_name": "cwmofr",
+    "skin_name_type": "Farmer",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 159,
+    "preview": "https://assets.open.mp/assets/images/skins/159.png",
+    "skin_model_name": "cwmohb1",
+    "skin_name_type": "Hillbilly",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 160,
+    "preview": "https://assets.open.mp/assets/images/skins/160.png",
+    "skin_model_name": "cwmohb2",
+    "skin_name_type": "Hillbilly",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 161,
+    "preview": "https://assets.open.mp/assets/images/skins/161.png",
+    "skin_model_name": "cwmyfr",
+    "skin_name_type": "Farmer",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 162,
+    "preview": "https://assets.open.mp/assets/images/skins/162.png",
+    "skin_model_name": "cwmyhb1",
+    "skin_name_type": "Hillbilly",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 163,
+    "preview": "https://assets.open.mp/assets/images/skins/163.png",
+    "skin_model_name": "bmyboun",
+    "skin_name_type": "Black Bouncer",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 164,
+    "preview": "https://assets.open.mp/assets/images/skins/164.png",
+    "skin_model_name": "wmyboun",
+    "skin_name_type": "White Bouncer",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 165,
+    "preview": "https://assets.open.mp/assets/images/skins/165.png",
+    "skin_model_name": "wmomib",
+    "skin_name_type": "White MIB agent",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 166,
+    "preview": "https://assets.open.mp/assets/images/skins/166.png",
+    "skin_model_name": "bmymib",
+    "skin_name_type": "Black MIB agent",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 167,
+    "preview": "https://assets.open.mp/assets/images/skins/167.png",
+    "skin_model_name": "wmybell",
+    "skin_name_type": "Cluckin' Bell Worker",
+    "singleplayer_location": "Cluckin' Bell",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 168,
+    "preview": "https://assets.open.mp/assets/images/skins/168.png",
+    "skin_model_name": "bmochil",
+    "skin_name_type": "Hotdog/Chilli Dog Vendor",
+    "singleplayer_location": "Hotdog vans and chilli dog carts",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 169,
+    "preview": "https://assets.open.mp/assets/images/skins/169.png",
+    "skin_model_name": "sofyri",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 170,
+    "preview": "https://assets.open.mp/assets/images/skins/170.png",
+    "skin_model_name": "somyst",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 171,
+    "preview": "https://assets.open.mp/assets/images/skins/171.png",
+    "skin_model_name": "vwmybjd",
+    "skin_name_type": "Blackjack Dealer",
+    "singleplayer_location": "Casinos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 172,
+    "preview": "https://assets.open.mp/assets/images/skins/172.png",
+    "skin_model_name": "vwfycrp",
+    "skin_name_type": "Casino croupier",
+    "singleplayer_location": "Casinos",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 173,
+    "preview": "https://assets.open.mp/assets/images/skins/173.png",
+    "skin_model_name": "sfr1",
+    "skin_name_type": "San Fierro Rifa",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 174,
+    "preview": "https://assets.open.mp/assets/images/skins/174.png",
+    "skin_model_name": "sfr2",
+    "skin_name_type": "San Fierro Rifa",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 175,
+    "preview": "https://assets.open.mp/assets/images/skins/175.png",
+    "skin_model_name": "sfr3",
+    "skin_name_type": "San Fierro Rifa",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 176,
+    "preview": "https://assets.open.mp/assets/images/skins/176.png",
+    "skin_model_name": "bmybar",
+    "skin_name_type": "Barber",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 177,
+    "preview": "https://assets.open.mp/assets/images/skins/177.png",
+    "skin_model_name": "wmybar",
+    "skin_name_type": "Barber",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 178,
+    "preview": "https://assets.open.mp/assets/images/skins/178.png",
+    "skin_model_name": "wfysex",
+    "skin_name_type": "Whore",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 179,
+    "preview": "https://assets.open.mp/assets/images/skins/179.png",
+    "skin_model_name": "wmyammo",
+    "skin_name_type": "Ammunation Salesman",
+    "singleplayer_location": "Ammunation",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 180,
+    "preview": "https://assets.open.mp/assets/images/skins/180.png",
+    "skin_model_name": "bmytatt",
+    "skin_name_type": "Tattoo Artist",
+    "singleplayer_location": "Tattoo Shops",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 181,
+    "preview": "https://assets.open.mp/assets/images/skins/181.png",
+    "skin_model_name": "vwmycr",
+    "skin_name_type": "Punk",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 182,
+    "preview": "https://assets.open.mp/assets/images/skins/182.png",
+    "skin_model_name": "vbmocd",
+    "skin_name_type": "Cab Driver",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 183,
+    "preview": "https://assets.open.mp/assets/images/skins/183.png",
+    "skin_model_name": "vbmycr",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 184,
+    "preview": "https://assets.open.mp/assets/images/skins/184.png",
+    "skin_model_name": "vhmycr",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 185,
+    "preview": "https://assets.open.mp/assets/images/skins/185.png",
+    "skin_model_name": "sbmyri",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 186,
+    "preview": "https://assets.open.mp/assets/images/skins/186.png",
+    "skin_model_name": "somyri",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 187,
+    "preview": "https://assets.open.mp/assets/images/skins/187.png",
+    "skin_model_name": "somybu",
+    "skin_name_type": "Businessman",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 188,
+    "preview": "https://assets.open.mp/assets/images/skins/188.png",
+    "skin_model_name": "swmyst",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 189,
+    "preview": "https://assets.open.mp/assets/images/skins/189.png",
+    "skin_model_name": "wmyva",
+    "skin_name_type": "Valet",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 190,
+    "preview": "https://assets.open.mp/assets/images/skins/190.png",
+    "skin_model_name": "copgrl3",
+    "skin_name_type": "Barbara Schternvart",
+    "singleplayer_location": "El Quebrados",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 191,
+    "preview": "https://assets.open.mp/assets/images/skins/191.png",
+    "skin_model_name": "gungrl3",
+    "skin_name_type": "Helena Wankstein",
+    "singleplayer_location": "Blueberry",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 192,
+    "preview": "https://assets.open.mp/assets/images/skins/192.png",
+    "skin_model_name": "mecgrl3",
+    "skin_name_type": "Michelle Cannes",
+    "singleplayer_location": "San Fierro",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 193,
+    "preview": "https://assets.open.mp/assets/images/skins/193.png",
+    "skin_model_name": "nurgrl3",
+    "skin_name_type": "Katie Zhan",
+    "singleplayer_location": "San Fierro",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 194,
+    "preview": "https://assets.open.mp/assets/images/skins/194.png",
+    "skin_model_name": "crogrl3",
+    "skin_name_type": "Millie Perkins",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 195,
+    "preview": "https://assets.open.mp/assets/images/skins/195.png",
+    "skin_model_name": "gangrl3",
+    "skin_name_type": "Denise Robinson",
+    "singleplayer_location": "Los Santos",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 196,
+    "preview": "https://assets.open.mp/assets/images/skins/196.png",
+    "skin_model_name": "cwfofr",
+    "skin_name_type": "Farm-Town inhabitant",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 197,
+    "preview": "https://assets.open.mp/assets/images/skins/197.png",
+    "skin_model_name": "cwfohb",
+    "skin_name_type": "Hillbilly",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 198,
+    "preview": "https://assets.open.mp/assets/images/skins/198.png",
+    "skin_model_name": "cwfyfr1",
+    "skin_name_type": "Farm-Town inhabitant",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 199,
+    "preview": "https://assets.open.mp/assets/images/skins/199.png",
+    "skin_model_name": "cwfyfr2",
+    "skin_name_type": "Farm-Town inhabitant",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 200,
+    "preview": "https://assets.open.mp/assets/images/skins/200.png",
+    "skin_model_name": "cwmyhb2",
+    "skin_name_type": "Hillbilly",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 201,
+    "preview": "https://assets.open.mp/assets/images/skins/201.png",
+    "skin_model_name": "dwfylc2",
+    "skin_name_type": "Farmer",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 202,
+    "preview": "https://assets.open.mp/assets/images/skins/202.png",
+    "skin_model_name": "dwmylc2",
+    "skin_name_type": "Farmer",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 203,
+    "preview": "https://assets.open.mp/assets/images/skins/203.png",
+    "skin_model_name": "omykara",
+    "skin_name_type": "Karate Teacher",
+    "singleplayer_location": "San Fierro Gym",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 204,
+    "preview": "https://assets.open.mp/assets/images/skins/204.png",
+    "skin_model_name": "wmykara",
+    "skin_name_type": "Karate Teacher",
+    "singleplayer_location": "San Fierro Gym",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 205,
+    "preview": "https://assets.open.mp/assets/images/skins/205.png",
+    "skin_model_name": "wfyburg",
+    "skin_name_type": "Burger Shot Cashier",
+    "singleplayer_location": "Burger Shot",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 206,
+    "preview": "https://assets.open.mp/assets/images/skins/206.png",
+    "skin_model_name": "vwmycd",
+    "skin_name_type": "Cab Driver",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 207,
+    "preview": "https://assets.open.mp/assets/images/skins/207.png",
+    "skin_model_name": "vhfypro",
+    "skin_name_type": "Prostitute",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 208,
+    "preview": "https://assets.open.mp/assets/images/skins/208.png",
+    "skin_model_name": "suzie",
+    "skin_name_type": "Su Xi Mu (Suzie)",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 209,
+    "preview": "https://assets.open.mp/assets/images/skins/209.png",
+    "skin_model_name": "omonood",
+    "skin_name_type": "Oriental Noodle stand vendor",
+    "singleplayer_location": "Noodle stands",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 210,
+    "preview": "https://assets.open.mp/assets/images/skins/210.png",
+    "skin_model_name": "omoboat",
+    "skin_name_type": "Oriental Boating School Instructor",
+    "singleplayer_location": "Boating School",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 211,
+    "preview": "https://assets.open.mp/assets/images/skins/211.png",
+    "skin_model_name": "wfyclot",
+    "skin_name_type": "Clothes shop staff",
+    "singleplayer_location": "Clothes shops",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 212,
+    "preview": "https://assets.open.mp/assets/images/skins/212.png",
+    "skin_model_name": "vwmotr1",
+    "skin_name_type": "Homeless",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 213,
+    "preview": "https://assets.open.mp/assets/images/skins/213.png",
+    "skin_model_name": "vwmotr2",
+    "skin_name_type": "Weird old man",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 214,
+    "preview": "https://assets.open.mp/assets/images/skins/214.png",
+    "skin_model_name": "vwfywai",
+    "skin_name_type": "Waitress (Maria Latore)",
+    "singleplayer_location": "Caligulas Casino (cutscene only)",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 215,
+    "preview": "https://assets.open.mp/assets/images/skins/215.png",
+    "skin_model_name": "sbfori",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 216,
+    "preview": "https://assets.open.mp/assets/images/skins/216.png",
+    "skin_model_name": "swfyri",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 217,
+    "preview": "https://assets.open.mp/assets/images/skins/217.png",
+    "skin_model_name": "wmyclot",
+    "skin_name_type": "Clothes shop staff",
+    "singleplayer_location": "Clothes shops",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 218,
+    "preview": "https://assets.open.mp/assets/images/skins/218.png",
+    "skin_model_name": "sbfost",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 219,
+    "preview": "https://assets.open.mp/assets/images/skins/219.png",
+    "skin_model_name": "sbfyri",
+    "skin_name_type": "Rich Woman",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 220,
+    "preview": "https://assets.open.mp/assets/images/skins/220.png",
+    "skin_model_name": "sbmocd",
+    "skin_name_type": "Cab Driver",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 221,
+    "preview": "https://assets.open.mp/assets/images/skins/221.png",
+    "skin_model_name": "sbmori",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 222,
+    "preview": "https://assets.open.mp/assets/images/skins/222.png",
+    "skin_model_name": "sbmost",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 223,
+    "preview": "https://assets.open.mp/assets/images/skins/223.png",
+    "skin_model_name": "shmycr",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 224,
+    "preview": "https://assets.open.mp/assets/images/skins/224.png",
+    "skin_model_name": "sofori",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 225,
+    "preview": "https://assets.open.mp/assets/images/skins/225.png",
+    "skin_model_name": "sofost",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 226,
+    "preview": "https://assets.open.mp/assets/images/skins/226.png",
+    "skin_model_name": "sofyst",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 227,
+    "preview": "https://assets.open.mp/assets/images/skins/227.png",
+    "skin_model_name": "somobu",
+    "skin_name_type": "Oriental Businessman",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 228,
+    "preview": "https://assets.open.mp/assets/images/skins/228.png",
+    "skin_model_name": "somori",
+    "skin_name_type": "Oriental Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 229,
+    "preview": "https://assets.open.mp/assets/images/skins/229.png",
+    "skin_model_name": "somost",
+    "skin_name_type": "Oriental Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 230,
+    "preview": "https://assets.open.mp/assets/images/skins/230.png",
+    "skin_model_name": "swmotr5",
+    "skin_name_type": "Homeless",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 231,
+    "preview": "https://assets.open.mp/assets/images/skins/231.png",
+    "skin_model_name": "swfori",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 232,
+    "preview": "https://assets.open.mp/assets/images/skins/232.png",
+    "skin_model_name": "swfost",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 233,
+    "preview": "https://assets.open.mp/assets/images/skins/233.png",
+    "skin_model_name": "swfyst",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 234,
+    "preview": "https://assets.open.mp/assets/images/skins/234.png",
+    "skin_model_name": "swmocd",
+    "skin_name_type": "Cab Driver",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 235,
+    "preview": "https://assets.open.mp/assets/images/skins/235.png",
+    "skin_model_name": "swmori",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 236,
+    "preview": "https://assets.open.mp/assets/images/skins/236.png",
+    "skin_model_name": "swmost",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 237,
+    "preview": "https://assets.open.mp/assets/images/skins/237.png",
+    "skin_model_name": "shfypro",
+    "skin_name_type": "Prostitute",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 238,
+    "preview": "https://assets.open.mp/assets/images/skins/238.png",
+    "skin_model_name": "sbfypro",
+    "skin_name_type": "Prostitute",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 239,
+    "preview": "https://assets.open.mp/assets/images/skins/239.png",
+    "skin_model_name": "swmotr4",
+    "skin_name_type": "Homeless",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 240,
+    "preview": "https://assets.open.mp/assets/images/skins/240.png",
+    "skin_model_name": "swmyri",
+    "skin_name_type": "The D.A",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 241,
+    "preview": "https://assets.open.mp/assets/images/skins/241.png",
+    "skin_model_name": "smyst",
+    "skin_name_type": "Afro-American",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 242,
+    "preview": "https://assets.open.mp/assets/images/skins/242.png",
+    "skin_model_name": "smyst2",
+    "skin_name_type": "Mexican",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 243,
+    "preview": "https://assets.open.mp/assets/images/skins/243.png",
+    "skin_model_name": "sfypro",
+    "skin_name_type": "Prostitute",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 244,
+    "preview": "https://assets.open.mp/assets/images/skins/244.png",
+    "skin_model_name": "vbfyst2",
+    "skin_name_type": "Stripper",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 245,
+    "preview": "https://assets.open.mp/assets/images/skins/245.png",
+    "skin_model_name": "vbfypro",
+    "skin_name_type": "Prostitute",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 246,
+    "preview": "https://assets.open.mp/assets/images/skins/246.png",
+    "skin_model_name": "vhfyst3",
+    "skin_name_type": "Stripper",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 247,
+    "preview": "https://assets.open.mp/assets/images/skins/247.png",
+    "skin_model_name": "bikera",
+    "skin_name_type": "Biker",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 248,
+    "preview": "https://assets.open.mp/assets/images/skins/248.png",
+    "skin_model_name": "bikerb",
+    "skin_name_type": "Biker",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 249,
+    "preview": "https://assets.open.mp/assets/images/skins/249.png",
+    "skin_model_name": "bmypimp",
+    "skin_name_type": "Pimp",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 250,
+    "preview": "https://assets.open.mp/assets/images/skins/250.png",
+    "skin_model_name": "swmycr",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 251,
+    "preview": "https://assets.open.mp/assets/images/skins/251.png",
+    "skin_model_name": "wfylg",
+    "skin_name_type": "Lifeguard",
+    "singleplayer_location": "Beaches",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 252,
+    "preview": "https://assets.open.mp/assets/images/skins/252.png",
+    "skin_model_name": "wmyva2",
+    "skin_name_type": "Naked Valet",
+    "singleplayer_location": "San Fierro (mission only)",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 253,
+    "preview": "https://assets.open.mp/assets/images/skins/253.png",
+    "skin_model_name": "bmosec",
+    "skin_name_type": "Bus Driver",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 254,
+    "preview": "https://assets.open.mp/assets/images/skins/254.png",
+    "skin_model_name": "bikdrug",
+    "skin_name_type": "Biker Drug Dealer",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 255,
+    "preview": "https://assets.open.mp/assets/images/skins/255.png",
+    "skin_model_name": "wmych",
+    "skin_name_type": "Chauffeur (Limo Driver)",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 256,
+    "preview": "https://assets.open.mp/assets/images/skins/256.png",
+    "skin_model_name": "sbfystr",
+    "skin_name_type": "Stripper",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 257,
+    "preview": "https://assets.open.mp/assets/images/skins/257.png",
+    "skin_model_name": "swfystr",
+    "skin_name_type": "Stripper",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 258,
+    "preview": "https://assets.open.mp/assets/images/skins/258.png",
+    "skin_model_name": "heck1",
+    "skin_name_type": "Heckler",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 259,
+    "preview": "https://assets.open.mp/assets/images/skins/259.png",
+    "skin_model_name": "heck2",
+    "skin_name_type": "Heckler",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 260,
+    "preview": "https://assets.open.mp/assets/images/skins/260.png",
+    "skin_model_name": "bmycon",
+    "skin_name_type": "Construction Worker",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 261,
+    "preview": "https://assets.open.mp/assets/images/skins/261.png",
+    "skin_model_name": "wmycd1",
+    "skin_name_type": "Cab driver",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 262,
+    "preview": "https://assets.open.mp/assets/images/skins/262.png",
+    "skin_model_name": "bmocd",
+    "skin_name_type": "Cab driver",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 263,
+    "preview": "https://assets.open.mp/assets/images/skins/263.png",
+    "skin_model_name": "vwfywa2",
+    "skin_name_type": "Normal Ped",
+    "singleplayer_location": "San Andreas",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 264,
+    "preview": "https://assets.open.mp/assets/images/skins/264.png",
+    "skin_model_name": "wmoice",
+    "skin_name_type": "Clown (Ice-cream Van Driver)",
+    "singleplayer_location": "San Andreas (Driving ice-cream vans (Mr.Whoopee))",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 265,
+    "preview": "https://assets.open.mp/assets/images/skins/265.png",
+    "skin_model_name": "tenpen",
+    "skin_name_type": "Officer Frank Tenpenny (Corrupt Cop)",
+    "singleplayer_location": "Missions",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 266,
+    "preview": "https://assets.open.mp/assets/images/skins/266.png",
+    "skin_model_name": "pulaski",
+    "skin_name_type": "Officer Eddie Pulaski (Corrupt Cop)",
+    "singleplayer_location": "Missions",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 267,
+    "preview": "https://assets.open.mp/assets/images/skins/267.png",
+    "skin_model_name": "hern",
+    "skin_name_type": "Officer Jimmy Hernandez",
+    "singleplayer_location": "Missions",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 268,
+    "preview": "https://assets.open.mp/assets/images/skins/268.png",
+    "skin_model_name": "dwayne",
+    "skin_name_type": "Dwaine/Dwayne",
+    "singleplayer_location": "San Fierro (Missions)",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 269,
+    "preview": "https://assets.open.mp/assets/images/skins/269.png",
+    "skin_model_name": "smoke",
+    "skin_name_type": "Melvin \"Big Smoke\" Harris (Mission)",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 270,
+    "preview": "https://assets.open.mp/assets/images/skins/270.png",
+    "skin_model_name": "sweet",
+    "skin_name_type": "Sean 'Sweet' Johnson",
+    "singleplayer_location": "Los Santos/San Fierro (Missions)",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 271,
+    "preview": "https://assets.open.mp/assets/images/skins/271.png",
+    "skin_model_name": "ryder",
+    "skin_name_type": "Lance 'Ryder' Wilson",
+    "singleplayer_location": "Los Santos/San Fierro (Missions)",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 272,
+    "preview": "https://assets.open.mp/assets/images/skins/272.png",
+    "skin_model_name": "forelli",
+    "skin_name_type": "Mafia Boss",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 273,
+    "preview": "https://assets.open.mp/assets/images/skins/273.png",
+    "skin_model_name": "tbone",
+    "skin_name_type": "T-Bone Mendez",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 274,
+    "preview": "https://assets.open.mp/assets/images/skins/274.png",
+    "skin_model_name": "laemt1",
+    "skin_name_type": "Paramedic (Emergency Medical Technician)",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 275,
+    "preview": "https://assets.open.mp/assets/images/skins/275.png",
+    "skin_model_name": "lvemt1",
+    "skin_name_type": "Paramedic (Emergency Medical Technician)",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 276,
+    "preview": "https://assets.open.mp/assets/images/skins/276.png",
+    "skin_model_name": "sfemt1",
+    "skin_name_type": "Paramedic (Emergency Medical Technician)",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 277,
+    "preview": "https://assets.open.mp/assets/images/skins/277.png",
+    "skin_model_name": "lafd1",
+    "skin_name_type": "Firefighter",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 278,
+    "preview": "https://assets.open.mp/assets/images/skins/278.png",
+    "skin_model_name": "lvfd1",
+    "skin_name_type": "Firefighter",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 279,
+    "preview": "https://assets.open.mp/assets/images/skins/279.png",
+    "skin_model_name": "sffd1",
+    "skin_name_type": "Firefighter",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 280,
+    "preview": "https://assets.open.mp/assets/images/skins/280.png",
+    "skin_model_name": "lapd1",
+    "skin_name_type": "Los Santos Police Officer",
+    "singleplayer_location": "Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 281,
+    "preview": "https://assets.open.mp/assets/images/skins/281.png",
+    "skin_model_name": "sfpd1",
+    "skin_name_type": "San Fierro Police Officer",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 282,
+    "preview": "https://assets.open.mp/assets/images/skins/282.png",
+    "skin_model_name": "lvpd1",
+    "skin_name_type": "Las Venturas Police Officer",
+    "singleplayer_location": "Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 283,
+    "preview": "https://assets.open.mp/assets/images/skins/283.png",
+    "skin_model_name": "csher",
+    "skin_name_type": "County Sheriff",
+    "singleplayer_location": "Countryside",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 284,
+    "preview": "https://assets.open.mp/assets/images/skins/284.png",
+    "skin_model_name": "lapdm1",
+    "skin_name_type": "LSPD Motorbike Cop",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 285,
+    "preview": "https://assets.open.mp/assets/images/skins/285.png",
+    "skin_model_name": "swat",
+    "skin_name_type": "S.W.A.T Special Forces",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 286,
+    "preview": "https://assets.open.mp/assets/images/skins/286.png",
+    "skin_model_name": "fbi",
+    "skin_name_type": "FBI Agent",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 287,
+    "preview": "https://assets.open.mp/assets/images/skins/287.png",
+    "skin_model_name": "army",
+    "skin_name_type": "San Andreas Army Soldier",
+    "singleplayer_location": "San Andreas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 288,
+    "preview": "https://assets.open.mp/assets/images/skins/288.png",
+    "skin_model_name": "dsher",
+    "skin_name_type": "Desert Sheriff",
+    "singleplayer_location": "Desert",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 289,
+    "preview": "https://assets.open.mp/assets/images/skins/289.png",
+    "skin_model_name": "zero",
+    "skin_name_type": "Zero",
+    "singleplayer_location": "San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 290,
+    "preview": "https://assets.open.mp/assets/images/skins/290.png",
+    "skin_model_name": "rose",
+    "skin_name_type": "Ken Rosenberg",
+    "singleplayer_location": "Las Venturas Casino",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 291,
+    "preview": "https://assets.open.mp/assets/images/skins/291.png",
+    "skin_model_name": "paul",
+    "skin_name_type": "Kent Paul",
+    "singleplayer_location": "LV/LS",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 292,
+    "preview": "https://assets.open.mp/assets/images/skins/292.png",
+    "skin_model_name": "cesar",
+    "skin_name_type": "Cesar Vialpando",
+    "singleplayer_location": "LS/SF",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 293,
+    "preview": "https://assets.open.mp/assets/images/skins/293.png",
+    "skin_model_name": "ogloc",
+    "skin_name_type": "Jeffery \"OG Loc\" Martin/Cross",
+    "singleplayer_location": "Los Santos Burger Shot",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 294,
+    "preview": "https://assets.open.mp/assets/images/skins/294.png",
+    "skin_model_name": "wuzimu",
+    "skin_name_type": "Wu Zi Mu (Woozie)",
+    "singleplayer_location": "San Fierro and Las Venturas",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 295,
+    "preview": "https://assets.open.mp/assets/images/skins/295.png",
+    "skin_model_name": "torino",
+    "skin_name_type": "Michael Toreno (Mike)",
+    "singleplayer_location": "Las Venturas and San Fierro",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 296,
+    "preview": "https://assets.open.mp/assets/images/skins/296.png",
+    "skin_model_name": "jizzy",
+    "skin_name_type": "Jizzy B.",
+    "singleplayer_location": "San Fierro The Pleasure Domes",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 297,
+    "preview": "https://assets.open.mp/assets/images/skins/297.png",
+    "skin_model_name": "maddogg",
+    "skin_name_type": "Madd Dogg",
+    "singleplayer_location": "Madd Dogg's Mansion Los Santos",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 298,
+    "preview": "https://assets.open.mp/assets/images/skins/298.png",
+    "skin_model_name": "cat",
+    "skin_name_type": "Catalina",
+    "singleplayer_location": "Fern Ridge",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 299,
+    "preview": "https://assets.open.mp/assets/images/skins/299.png",
+    "skin_model_name": "claude",
+    "skin_name_type": "Claude Speed",
+    "singleplayer_location": "Cutscene Only",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 300,
+    "preview": "https://assets.open.mp/assets/images/skins/300.png",
+    "skin_model_name": "lapdna",
+    "skin_name_type": "Los Santos Police Officer (Without gun holster)",
+    "singleplayer_location": "-",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 301,
+    "preview": "https://assets.open.mp/assets/images/skins/301.png",
+    "skin_model_name": "sfpdna",
+    "skin_name_type": "San Fierro Police Officer (Without gun holster)",
+    "singleplayer_location": "-",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 302,
+    "preview": "https://assets.open.mp/assets/images/skins/302.png",
+    "skin_model_name": "lvpdna",
+    "skin_name_type": "Las Venturas Police Officer (Without gun holster)",
+    "singleplayer_location": "-",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 303,
+    "preview": "https://assets.open.mp/assets/images/skins/303.png",
+    "skin_model_name": "lapdpc",
+    "skin_name_type": "Los Santos Police Officer (Without uniform)",
+    "singleplayer_location": "-",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 304,
+    "preview": "https://assets.open.mp/assets/images/skins/304.png",
+    "skin_model_name": "lapdpd",
+    "skin_name_type": "Los Santos Police Officer (Without uniform)",
+    "singleplayer_location": "-",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 305,
+    "preview": "https://assets.open.mp/assets/images/skins/305.png",
+    "skin_model_name": "lvpdpc",
+    "skin_name_type": "Las Venturas Police Officer (Without uniform)",
+    "singleplayer_location": "-",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 306,
+    "preview": "https://assets.open.mp/assets/images/skins/306.png",
+    "skin_model_name": "wfyclpd",
+    "skin_name_type": "Los Santos Police Officer",
+    "singleplayer_location": "-",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 307,
+    "preview": "https://assets.open.mp/assets/images/skins/307.png",
+    "skin_model_name": "vbfycpd",
+    "skin_name_type": "San Fierro Police Officer",
+    "singleplayer_location": "-",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 308,
+    "preview": "https://assets.open.mp/assets/images/skins/308.png",
+    "skin_model_name": "wfyclem",
+    "skin_name_type": "San Fierro Paramedic (Emergency Medical Technician)",
+    "singleplayer_location": "-",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 309,
+    "preview": "https://assets.open.mp/assets/images/skins/309.png",
+    "skin_model_name": "wfycllv",
+    "skin_name_type": "Las Venturas Police Officer",
+    "singleplayer_location": "-",
+    "gender": "Female"
+  },
+  {
+    "skin_id": 310,
+    "preview": "https://assets.open.mp/assets/images/skins/310.png",
+    "skin_model_name": "csherna",
+    "skin_name_type": "Country Sheriff (Without hat)",
+    "singleplayer_location": "-",
+    "gender": "Male"
+  },
+  {
+    "skin_id": 311,
+    "preview": "https://assets.open.mp/assets/images/skins/311.png",
+    "skin_model_name": "dsherna",
+    "skin_name_type": "Desert Sheriff (Without hat)",
+    "singleplayer_location": "-",
+    "gender": "Male"
+  }
+]
